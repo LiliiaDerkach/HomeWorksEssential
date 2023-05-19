@@ -1,0 +1,15 @@
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\bin\Debug\net7.0\Task_6.exe
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\bin\Debug\net7.0\Task_6.deps.json
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\bin\Debug\net7.0\Task_6.runtimeconfig.json
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\bin\Debug\net7.0\Task_6.dll
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\bin\Debug\net7.0\Task_6.pdb
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.csproj.AssemblyReference.cache
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.AssemblyInfoInputs.cache
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.AssemblyInfo.cs
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.dll
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\refint\Task_6.dll
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.pdb
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\Task_6.genruntimeconfig.cache
+C:\Users\Lilia\Desktop\С#\Essential\HW_11\Task_6\obj\Debug\net7.0\ref\Task_6.dll

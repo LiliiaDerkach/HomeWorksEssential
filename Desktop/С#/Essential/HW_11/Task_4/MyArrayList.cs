@@ -9,11 +9,12 @@ namespace Task_4
 {
     internal class MyArrayList
     {
-        object[] arrayList = new object[1];
+        object[] arrayList = new object[0];
+        public int Count { get { return arrayList.Length;} }
+        int count = 0;
         public void Add(object value)
         {
             bool isContinue = true;
-            int count = 0;
             if(count < arrayList.Length)
             { 
             for (int i = 0; i < arrayList.Length; i++)
@@ -37,6 +38,26 @@ namespace Task_4
                 count++;
                 arrayList = newArrayList;
             }
+        }
+        public object this[int index]
+        {
+            get 
+            {
+                for (int i = 0; i < arrayList.Length; i++)
+                {
+                    if(index == i)
+                    {
+                        object a = arrayList[i];
+                        return a;
+                    }
+                }
+                return 0; 
+            }
+        }
+        public void Clear()
+        {
+            object[] emptyArrayList = new object[0];
+            arrayList = emptyArrayList;
         }
     }
 }
